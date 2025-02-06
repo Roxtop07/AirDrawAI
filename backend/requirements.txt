@@ -1,0 +1,32 @@
+# Backend (Flask & APIs)
+Flask
+flask-cors
+
+# MQTT Client for IoT
+paho-mqtt
+
+# Speech Recognition
+SpeechRecognition
+
+# Computer Vision & Hand Gesture Recognition
+opencv-python
+mediapipe
+numpy
+
+# MongoDB Database
+pymongo
+
+# Environment Variables
+python-dotenv
+
+# Production Server
+gunicorn
+
+# client 
+client
+
+#natural language Toolkit
+nltk
+
+#sklearn
+sklearn
