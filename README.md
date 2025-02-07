@@ -1,10 +1,9 @@
-**AirDraw AI – Gesture-Based Smart Drawing & AI Analysis 🎨🤖**
-
+# AirDraw AI – Gesture-Based Smart Drawing & AI Analysis 🎨🤖
 **Overview**
 
 AirDraw AI is an innovative, touch-free digital drawing system that allows users to draw, erase, and interact with a virtual canvas using only hand gestures. It integrates real-time hand tracking, AI-powered analysis, and dynamic tool selection, providing a seamless and intuitive drawing experience.
 
-Key Features
+**Key Features**
 
 ✅ Gesture-Based Drawing – Use hand movements to draw, erase, and interact without touching a screen.
 
@@ -20,7 +19,7 @@ Key Features
 
 ✅ Intuitive UI Overlays – Interactive color wheel and brush size selector for an enhanced drawing experience.
 
-How It Works
+**How It Works**
 
 Hand Tracking – Uses OpenCV and cvzone’s HandTrackingModule to detect hand and finger positions.
 
@@ -32,7 +31,7 @@ Dynamic Tool Selection – Hand gestures allow users to switch brushes, change c
 
 On-Screen Output – AI-generated responses are directly displayed on the canvas, providing instant feedback.
 
-Installation & Setup
+# **Installation & Setup**
 
 Requirements
 
