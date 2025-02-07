@@ -63,7 +63,7 @@ source venv/bin/activate  # (On Windows, use 'venv\Scripts\activate')
 pip install -r requirements.txt  
 
 # Run the application
-python main.py  
+python app.py  
 
 Project Architecture
 
