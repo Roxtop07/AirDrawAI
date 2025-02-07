@@ -1,6 +1,6 @@
-#AirDraw AI – Gesture-Based Smart Drawing & AI Analysis 🎨🤖
+**AirDraw AI – Gesture-Based Smart Drawing & AI Analysis 🎨🤖**
 
-#Overview
+**Overview**
 
 AirDraw AI is an innovative, touch-free digital drawing system that allows users to draw, erase, and interact with a virtual canvas using only hand gestures. It integrates real-time hand tracking, AI-powered analysis, and dynamic tool selection, providing a seamless and intuitive drawing experience.
 
@@ -69,13 +69,15 @@ python main.py
 Project Architecture
 
 AirDrawAI/
-├── main.py  # Main script for hand tracking and gesture recognition  
+├── app.py  # Main script for hand tracking and gesture recognition  
 ├── ai_module.py  # Integration with Gemini AI  
 ├── gesture_recognition.py  # Hand gesture processing  
 ├── ui/  # UI components (color wheel, overlays)  
 ├── assets/  # Predefined gesture images & templates  
 ├── README.md  # Project documentation  
-├── requirements.txt  # Python dependencies  
+├── requirements.txt  # Python dependencies
+├── mqtt_client
+├── speech_recognition.py
 
 Use Cases
 
